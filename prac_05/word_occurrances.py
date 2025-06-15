@@ -11,3 +11,4 @@ word_length = max(len(word) for word in dict_words)
 for i in dict_words:
     print(f"{i:{word_length}}:{dict_words[i]}")
 
+
