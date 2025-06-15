@@ -1,7 +1,7 @@
 # Practical 07
 
 # Introduction about myself
-My name is Yichuan.Zhang, 19 year-old-boy, this is link my own github about [my code ](https://github.com/YichuanZhangthemostHANDSOMEone/cp1404-practical/tree/prac_7_feedback/prac_07)
+My name is Yue Zhou, 21 year-old-girl, this is link my own github about [my code ](https://github.com/MannimMond811/CP1404-Practical/tree/master/prac_07)
 
 
 ## Reflection about this lecture
