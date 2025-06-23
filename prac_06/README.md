@@ -1,3 +1,1 @@
 # Practical 06
-
-
