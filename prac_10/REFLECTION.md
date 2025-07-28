@@ -35,7 +35,7 @@ For each one, write a short explanation of what was good about your review.
 
 ### Good Code Review 1
 
-[Practical 8](https://github.com/YichuanZhangthemostHANDSOMEone/cp1404-practical/tree/prac_8_feedback/prac_08)
+[Practical 8](https://github.com/MannimMond811/CP1404-Practical/tree/master/prac_08)
 
 ### Explanation
 
@@ -43,7 +43,7 @@ Because this practical I learnt about kivy GUI and how to process data with inte
 
 ### Good Code Review 2
 
-[Practical 10](https://github.com/YichuanZhangthemostHANDSOMEone/flaskdemo)
+[Practical 10](https://github.com/MannimMond811/CP1404-Practical/tree/master/prac_10)
 
 ### Explanation
 
